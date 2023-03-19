@@ -1,2 +1,2 @@
-### Packages are automated mirrors of popular Docker Hub container images.
-### Enjoy!
+### Please use github.com/DockerHubMirror
+### A automated mirror of popular Docker Hub container images.
